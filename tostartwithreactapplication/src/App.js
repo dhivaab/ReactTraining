@@ -9,6 +9,11 @@ import Five from './Five';
 import Six from './Six';
 import Seven from './Seven/Seven';
 import Eight from './Eight/Eight';
+import Nine from './Nine';
+import Ten from './Ten';
+import Eleven from './Eleven';
+import Twelve from './Twelve';
+import Thirteen from './Thirteen';
 
 function App() {
   return (
@@ -27,7 +32,17 @@ function App() {
 
     {/* <Seven/>*/}
 
-    <Eight/>
+    {/* <Eight/> */}
+
+    {/* <Nine favcol ="yellow"/> */}
+
+    {/* <Ten favcol ="orange"/> */}
+
+    {/* <Eleven/> */}
+
+    {/* <Twelve/> */}
+
+    {/* <Thirteen/> */}
     </div>
   );
 }
